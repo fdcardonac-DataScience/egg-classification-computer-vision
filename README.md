@@ -11,4 +11,4 @@ Este proyecto utiliza **Python** y **OpenCV** para la detección y clasificació
 
 ### Documentación:
 Puedes encontrar el reporte técnico completo en el archivo PDF adjunto en este repositorio.
-Usa el códi
+
